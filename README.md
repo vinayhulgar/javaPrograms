@@ -4,3 +4,10 @@
 Invoking Object’s clone method on an instance of the class that does not implement the Cloneable interface results in an exception CloneNotSupportedException being thrown.</br>
 
 :pushpin: Serializable interface : Serializable interface is present in java.io package. It is used to make an object eligible for saving its state into a file. This is called Serialization.
+
+:pushpin: Clever Algorithm To Find Whether Or Not 2 Words Are Anagrams:
+- sort each words characters alphabetically
+- both ordered words are the same => anagrams
+
+ear => aer
+are => aer
