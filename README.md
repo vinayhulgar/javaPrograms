@@ -6,6 +6,7 @@ Invoking Object’s clone method on an instance of the class that does not imple
 :pushpin: Serializable interface : Serializable interface is present in java.io package. It is used to make an object eligible for saving its state into a file. This is called Serialization.
 
 :pushpin: Clever Algorithm To Find Whether Or Not 2 Words Are Anagrams:
+![Anagram](https://github.com/vinayhulgar/javaPrograms/blob/master/Anagram.jpg)
 - sort each words characters alphabetically
 - both ordered words are the same => anagrams
 
